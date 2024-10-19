@@ -131,22 +131,3 @@ def pattern17(num17):
             
         
        
-        
-       
-        
-       
-        
-
-
-num=int(input("num:-"))
-#pattern7(num)
-#pattern8(num)
-#pattern9(num)
-#pattern10(num)
-#pattern11(num)
-#pattern12(num)
-#pattern13(num)
-#pattern14(num)
-#pattern15(num)
-#pattern16(num)
-pattern17(num)
