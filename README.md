@@ -1,4 +1,4 @@
-# PATTERNS-
+# PATTERNS
 
 # Pattern Printing with Python
 
